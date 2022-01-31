@@ -1,1 +1,0 @@
-# getajr-client
